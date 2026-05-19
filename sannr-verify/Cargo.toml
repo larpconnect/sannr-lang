@@ -1,0 +1,15 @@
+[package]
+name = "sannr-verify"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+
+[lints]
+workspace = true
+
+[dependencies]
+sannr-semantic = { path = "../sannr-semantic" }
+z3.workspace = true
+thiserror.workspace = true
+tokio.workspace = true
+serde.workspace = true

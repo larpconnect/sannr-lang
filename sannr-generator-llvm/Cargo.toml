@@ -1,0 +1,15 @@
+[package]
+name = "sannr-generator-llvm"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+
+[lints]
+workspace = true
+
+[dependencies]
+sannr-llvm-ir = { path = "../sannr-llvm-ir" }
+inkwell.workspace = true
+thiserror.workspace = true
+tokio.workspace = true
+serde.workspace = true

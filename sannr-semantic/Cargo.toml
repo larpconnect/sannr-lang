@@ -1,0 +1,14 @@
+[package]
+name = "sannr-semantic"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+
+[lints]
+workspace = true
+
+[dependencies]
+sannr-ast = { path = "../sannr-ast" }
+thiserror.workspace = true
+tokio.workspace = true
+serde.workspace = true

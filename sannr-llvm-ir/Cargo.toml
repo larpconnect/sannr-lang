@@ -1,0 +1,15 @@
+[package]
+name = "sannr-llvm-ir"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+
+[lints]
+workspace = true
+
+[dependencies]
+sannr-verify = { path = "../sannr-verify" }
+inkwell.workspace = true
+thiserror.workspace = true
+tokio.workspace = true
+serde.workspace = true
