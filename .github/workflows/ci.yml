@@ -17,7 +17,7 @@ jobs:
     - uses: actions/checkout@v4
 
     - name: Install dependencies (LLVM, Z3)
-      run: sudo apt-get update && sudo apt-get install -y llvm-17 llvm-17-dev z3 libz3-dev
+      run: sudo apt-get update && sudo apt-get install -y llvm-17 llvm-17-dev z3 libz3-dev libpolly-17-dev
 
     - name: Set LLVM environment variable
       run: echo "LLVM_SYS_170_PREFIX=/usr/lib/llvm-17" >> $GITHUB_ENV
