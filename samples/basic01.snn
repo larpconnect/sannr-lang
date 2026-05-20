@@ -1,0 +1,7 @@
+module Main =
+  let main : () -> Int =
+    body {
+      0
+    }
+
+let () : () -> Int = Main::main ()
