@@ -9,9 +9,9 @@ workspace = true
 
 [dependencies]
 lalrpop-util.workspace = true
-
-[build-dependencies]
-lalrpop = "0.20"
 thiserror.workspace = true
 tokio.workspace = true
 serde.workspace = true
+
+[build-dependencies]
+lalrpop = "0.20"
