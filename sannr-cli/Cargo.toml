@@ -1,0 +1,25 @@
+[package]
+name = "sannr-cli"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+
+[lints]
+workspace = true
+
+[lib]
+name = "sannr_cli"
+path = "src/lib.rs"
+
+[dependencies]
+sannr-ast = { path = "../sannr-ast" }
+sannr-semantic = { path = "../sannr-semantic" }
+sannr-verify = { path = "../sannr-verify" }
+sannr-llvm-ir = { path = "../sannr-llvm-ir" }
+sannr-generator-llvm = { path = "../sannr-generator-llvm" }
+clap.workspace = true
+miette.workspace = true
+anyhow.workspace = true
+thiserror.workspace = true
+tokio.workspace = true
+serde.workspace = true

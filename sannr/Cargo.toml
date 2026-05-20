@@ -1,0 +1,14 @@
+[package]
+name = "sannr"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+
+[lints]
+workspace = true
+
+[dependencies]
+sannr-cli = { path = "../sannr-cli" }
+thiserror.workspace = true
+tokio.workspace = true
+serde.workspace = true

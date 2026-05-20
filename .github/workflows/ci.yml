@@ -1,0 +1,35 @@
+name: Rust
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+env:
+  CARGO_TERM_COLOR: always
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Install dependencies (LLVM, Z3)
+      run: sudo apt-get update && sudo apt-get install -y llvm-17 llvm-17-dev z3 libz3-dev libpolly-17-dev
+
+    - name: Set LLVM environment variable
+      run: echo "LLVM_SYS_170_PREFIX=/usr/lib/llvm-17" >> $GITHUB_ENV
+
+    - name: Build
+      run: cargo build --verbose
+
+    - name: Run format check
+      run: cargo fmt --all -- --check
+
+    - name: Run clippy
+      run: cargo clippy --workspace --all-targets -- -D warnings
+
+    - name: Run tests
+      run: cargo test --verbose

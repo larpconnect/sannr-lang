@@ -1,0 +1,17 @@
+[package]
+name = "sannr-ast"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+
+[lints]
+workspace = true
+
+[dependencies]
+lalrpop-util.workspace = true
+thiserror.workspace = true
+tokio.workspace = true
+serde.workspace = true
+
+[build-dependencies]
+lalrpop = "0.20"
