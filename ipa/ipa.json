@@ -1,0 +1,2269 @@
+{
+  "p": {
+    "type": "consonant",
+    "features": [
+      "+bilabial",
+      "+consonantal",
+      "+labial",
+      "+stop"
+    ],
+    "place": [
+      "bilabial"
+    ],
+    "manner": [
+      "plosive"
+    ],
+    "aliases": [],
+    "sonority": 25
+  },
+  "b": {
+    "type": "consonant",
+    "features": [
+      "+bilabial",
+      "+consonantal",
+      "+labial",
+      "+stop",
+      "+voiced"
+    ],
+    "place": [
+      "bilabial"
+    ],
+    "manner": [
+      "plosive"
+    ],
+    "aliases": [],
+    "sonority": 27
+  },
+  "t": {
+    "type": "consonant",
+    "features": [
+      "+anterior",
+      "+consonantal",
+      "+coronal",
+      "+stop"
+    ],
+    "place": [
+      "alveolar"
+    ],
+    "manner": [
+      "plosive"
+    ],
+    "aliases": [],
+    "sonority": 25
+  },
+  "d": {
+    "type": "consonant",
+    "features": [
+      "+anterior",
+      "+consonantal",
+      "+coronal",
+      "+stop",
+      "+voiced"
+    ],
+    "place": [
+      "alveolar"
+    ],
+    "manner": [
+      "plosive"
+    ],
+    "aliases": [],
+    "sonority": 27
+  },
+  "ʈ": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+coronal",
+      "+stop"
+    ],
+    "place": [
+      "retroflex"
+    ],
+    "manner": [
+      "plosive"
+    ],
+    "aliases": [],
+    "sonority": 25
+  },
+  "ɖ": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+coronal",
+      "+stop",
+      "+voiced"
+    ],
+    "place": [
+      "retroflex"
+    ],
+    "manner": [
+      "plosive"
+    ],
+    "aliases": [],
+    "sonority": 27
+  },
+  "c": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+dorsal",
+      "+front",
+      "+high",
+      "+stop"
+    ],
+    "place": [
+      "palatal"
+    ],
+    "manner": [
+      "plosive"
+    ],
+    "aliases": [],
+    "sonority": 25
+  },
+  "ɟ": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+dorsal",
+      "+front",
+      "+high",
+      "+stop",
+      "+voiced"
+    ],
+    "place": [
+      "palatal"
+    ],
+    "manner": [
+      "plosive"
+    ],
+    "aliases": [],
+    "sonority": 27
+  },
+  "k": {
+    "type": "consonant",
+    "features": [
+      "+back",
+      "+consonantal",
+      "+dorsal",
+      "+high",
+      "+stop"
+    ],
+    "place": [
+      "velar"
+    ],
+    "manner": [
+      "plosive"
+    ],
+    "aliases": [],
+    "sonority": 25
+  },
+  "ɡ": {
+    "type": "consonant",
+    "features": [
+      "+back",
+      "+consonantal",
+      "+dorsal",
+      "+high",
+      "+stop",
+      "+voiced"
+    ],
+    "place": [
+      "velar"
+    ],
+    "manner": [
+      "plosive"
+    ],
+    "aliases": [
+      "g"
+    ],
+    "sonority": 27
+  },
+  "q": {
+    "type": "consonant",
+    "features": [
+      "+back",
+      "+consonantal",
+      "+dorsal",
+      "+low",
+      "+stop"
+    ],
+    "place": [
+      "uvular"
+    ],
+    "manner": [
+      "plosive"
+    ],
+    "aliases": [],
+    "sonority": 25
+  },
+  "ɢ": {
+    "type": "consonant",
+    "features": [
+      "+back",
+      "+consonantal",
+      "+dorsal",
+      "+low",
+      "+stop",
+      "+voiced"
+    ],
+    "place": [
+      "uvular"
+    ],
+    "manner": [
+      "plosive"
+    ],
+    "aliases": [],
+    "sonority": 27
+  },
+  "ʔ": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+constricted_glottis",
+      "+stop"
+    ],
+    "place": [
+      "glottal"
+    ],
+    "manner": [
+      "plosive"
+    ],
+    "aliases": [],
+    "sonority": 25
+  },
+  "m": {
+    "type": "consonant",
+    "features": [
+      "+bilabial",
+      "+consonantal",
+      "+labial",
+      "+nasal",
+      "+sonorant",
+      "+voiced"
+    ],
+    "place": [
+      "bilabial"
+    ],
+    "manner": [
+      "nasal"
+    ],
+    "aliases": [],
+    "sonority": 57
+  },
+  "ɱ": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+labial",
+      "+labiodental",
+      "+nasal",
+      "+sonorant",
+      "+voiced"
+    ],
+    "place": [
+      "labiodental"
+    ],
+    "manner": [
+      "nasal"
+    ],
+    "aliases": [],
+    "sonority": 57
+  },
+  "n": {
+    "type": "consonant",
+    "features": [
+      "+anterior",
+      "+consonantal",
+      "+coronal",
+      "+nasal",
+      "+sonorant",
+      "+voiced"
+    ],
+    "place": [
+      "alveolar"
+    ],
+    "manner": [
+      "nasal"
+    ],
+    "aliases": [],
+    "sonority": 57
+  },
+  "ɳ": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+coronal",
+      "+nasal",
+      "+sonorant",
+      "+voiced"
+    ],
+    "place": [
+      "retroflex"
+    ],
+    "manner": [
+      "nasal"
+    ],
+    "aliases": [],
+    "sonority": 57
+  },
+  "ɲ": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+dorsal",
+      "+front",
+      "+high",
+      "+nasal",
+      "+sonorant",
+      "+voiced"
+    ],
+    "place": [
+      "palatal"
+    ],
+    "manner": [
+      "nasal"
+    ],
+    "aliases": [],
+    "sonority": 57
+  },
+  "ŋ": {
+    "type": "consonant",
+    "features": [
+      "+back",
+      "+consonantal",
+      "+dorsal",
+      "+high",
+      "+nasal",
+      "+sonorant",
+      "+voiced"
+    ],
+    "place": [
+      "velar"
+    ],
+    "manner": [
+      "nasal"
+    ],
+    "aliases": [],
+    "sonority": 57
+  },
+  "ɴ": {
+    "type": "consonant",
+    "features": [
+      "+back",
+      "+consonantal",
+      "+dorsal",
+      "+low",
+      "+nasal",
+      "+sonorant",
+      "+voiced"
+    ],
+    "place": [
+      "uvular"
+    ],
+    "manner": [
+      "nasal"
+    ],
+    "aliases": [],
+    "sonority": 57
+  },
+  "ʙ": {
+    "type": "consonant",
+    "features": [
+      "+bilabial",
+      "+consonantal",
+      "+continuant",
+      "+labial",
+      "+sonorant",
+      "+trill",
+      "+voiced"
+    ],
+    "place": [
+      "bilabial"
+    ],
+    "manner": [
+      "trill"
+    ],
+    "aliases": [],
+    "sonority": 67
+  },
+  "r": {
+    "type": "consonant",
+    "features": [
+      "+anterior",
+      "+consonantal",
+      "+continuant",
+      "+coronal",
+      "+liquid",
+      "+rhotic",
+      "+sonorant",
+      "+trill",
+      "+voiced"
+    ],
+    "place": [
+      "alveolar"
+    ],
+    "manner": [
+      "trill"
+    ],
+    "aliases": [],
+    "sonority": 67
+  },
+  "ʀ": {
+    "type": "consonant",
+    "features": [
+      "+back",
+      "+consonantal",
+      "+continuant",
+      "+dorsal",
+      "+liquid",
+      "+low",
+      "+rhotic",
+      "+sonorant",
+      "+trill",
+      "+voiced"
+    ],
+    "place": [
+      "uvular"
+    ],
+    "manner": [
+      "trill"
+    ],
+    "aliases": [],
+    "sonority": 67
+  },
+  "ⱱ": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+continuant",
+      "+labial",
+      "+labiodental",
+      "+sonorant",
+      "+tap",
+      "+voiced"
+    ],
+    "place": [
+      "labiodental"
+    ],
+    "manner": [
+      "tap"
+    ],
+    "aliases": [],
+    "sonority": 67
+  },
+  "ɾ": {
+    "type": "consonant",
+    "features": [
+      "+anterior",
+      "+consonantal",
+      "+continuant",
+      "+coronal",
+      "+liquid",
+      "+rhotic",
+      "+sonorant",
+      "+tap",
+      "+voiced"
+    ],
+    "place": [
+      "alveolar"
+    ],
+    "manner": [
+      "tap"
+    ],
+    "aliases": [],
+    "sonority": 67
+  },
+  "ɽ": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+continuant",
+      "+coronal",
+      "+liquid",
+      "+rhotic",
+      "+sonorant",
+      "+tap",
+      "+voiced"
+    ],
+    "place": [
+      "retroflex"
+    ],
+    "manner": [
+      "tap"
+    ],
+    "aliases": [],
+    "sonority": 67
+  },
+  "ɸ": {
+    "type": "consonant",
+    "features": [
+      "+bilabial",
+      "+consonantal",
+      "+continuant",
+      "+delayed",
+      "+labial"
+    ],
+    "place": [
+      "bilabial"
+    ],
+    "manner": [
+      "fricative"
+    ],
+    "aliases": [],
+    "sonority": 45
+  },
+  "β": {
+    "type": "consonant",
+    "features": [
+      "+bilabial",
+      "+consonantal",
+      "+continuant",
+      "+delayed",
+      "+labial",
+      "+voiced"
+    ],
+    "place": [
+      "bilabial"
+    ],
+    "manner": [
+      "fricative"
+    ],
+    "aliases": [],
+    "sonority": 47
+  },
+  "f": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+continuant",
+      "+delayed",
+      "+labial",
+      "+labiodental"
+    ],
+    "place": [
+      "labiodental"
+    ],
+    "manner": [
+      "fricative"
+    ],
+    "aliases": [],
+    "sonority": 45
+  },
+  "v": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+continuant",
+      "+delayed",
+      "+labial",
+      "+labiodental",
+      "+voiced"
+    ],
+    "place": [
+      "labiodental"
+    ],
+    "manner": [
+      "fricative"
+    ],
+    "aliases": [],
+    "sonority": 47
+  },
+  "θ": {
+    "type": "consonant",
+    "features": [
+      "+anterior",
+      "+consonantal",
+      "+continuant",
+      "+coronal",
+      "+delayed",
+      "+distributed"
+    ],
+    "place": [
+      "dental"
+    ],
+    "manner": [
+      "fricative"
+    ],
+    "aliases": [],
+    "sonority": 45
+  },
+  "ð": {
+    "type": "consonant",
+    "features": [
+      "+anterior",
+      "+consonantal",
+      "+continuant",
+      "+coronal",
+      "+delayed",
+      "+distributed",
+      "+voiced"
+    ],
+    "place": [
+      "dental"
+    ],
+    "manner": [
+      "fricative"
+    ],
+    "aliases": [],
+    "sonority": 47
+  },
+  "s": {
+    "type": "consonant",
+    "features": [
+      "+anterior",
+      "+consonantal",
+      "+continuant",
+      "+coronal",
+      "+delayed",
+      "+strident"
+    ],
+    "place": [
+      "alveolar"
+    ],
+    "manner": [
+      "fricative"
+    ],
+    "aliases": [],
+    "sonority": 45
+  },
+  "z": {
+    "type": "consonant",
+    "features": [
+      "+anterior",
+      "+consonantal",
+      "+continuant",
+      "+coronal",
+      "+delayed",
+      "+strident",
+      "+voiced"
+    ],
+    "place": [
+      "alveolar"
+    ],
+    "manner": [
+      "fricative"
+    ],
+    "aliases": [],
+    "sonority": 47
+  },
+  "ʃ": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+continuant",
+      "+coronal",
+      "+delayed",
+      "+distributed",
+      "+strident"
+    ],
+    "place": [
+      "postalveolar"
+    ],
+    "manner": [
+      "fricative"
+    ],
+    "aliases": [],
+    "sonority": 45
+  },
+  "ʒ": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+continuant",
+      "+coronal",
+      "+delayed",
+      "+distributed",
+      "+strident",
+      "+voiced"
+    ],
+    "place": [
+      "postalveolar"
+    ],
+    "manner": [
+      "fricative"
+    ],
+    "aliases": [],
+    "sonority": 47
+  },
+  "ʂ": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+continuant",
+      "+coronal",
+      "+delayed",
+      "+strident"
+    ],
+    "place": [
+      "retroflex"
+    ],
+    "manner": [
+      "fricative"
+    ],
+    "aliases": [],
+    "sonority": 45
+  },
+  "ʐ": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+continuant",
+      "+coronal",
+      "+delayed",
+      "+strident",
+      "+voiced"
+    ],
+    "place": [
+      "retroflex"
+    ],
+    "manner": [
+      "fricative"
+    ],
+    "aliases": [],
+    "sonority": 47
+  },
+  "ç": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+continuant",
+      "+delayed",
+      "+dorsal",
+      "+front",
+      "+high"
+    ],
+    "place": [
+      "palatal"
+    ],
+    "manner": [
+      "fricative"
+    ],
+    "aliases": [],
+    "sonority": 45
+  },
+  "ʝ": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+continuant",
+      "+delayed",
+      "+dorsal",
+      "+front",
+      "+high",
+      "+voiced"
+    ],
+    "place": [
+      "palatal"
+    ],
+    "manner": [
+      "fricative"
+    ],
+    "aliases": [],
+    "sonority": 47
+  },
+  "x": {
+    "type": "consonant",
+    "features": [
+      "+back",
+      "+consonantal",
+      "+continuant",
+      "+delayed",
+      "+dorsal",
+      "+high"
+    ],
+    "place": [
+      "velar"
+    ],
+    "manner": [
+      "fricative"
+    ],
+    "aliases": [],
+    "sonority": 45
+  },
+  "ɣ": {
+    "type": "consonant",
+    "features": [
+      "+back",
+      "+consonantal",
+      "+continuant",
+      "+delayed",
+      "+dorsal",
+      "+high",
+      "+voiced"
+    ],
+    "place": [
+      "velar"
+    ],
+    "manner": [
+      "fricative"
+    ],
+    "aliases": [],
+    "sonority": 47
+  },
+  "χ": {
+    "type": "consonant",
+    "features": [
+      "+back",
+      "+consonantal",
+      "+continuant",
+      "+delayed",
+      "+dorsal",
+      "+low"
+    ],
+    "place": [
+      "uvular"
+    ],
+    "manner": [
+      "fricative"
+    ],
+    "aliases": [],
+    "sonority": 45
+  },
+  "ʁ": {
+    "type": "consonant",
+    "features": [
+      "+back",
+      "+consonantal",
+      "+continuant",
+      "+delayed",
+      "+dorsal",
+      "+liquid",
+      "+low",
+      "+rhotic",
+      "+voiced"
+    ],
+    "place": [
+      "uvular"
+    ],
+    "manner": [
+      "fricative"
+    ],
+    "aliases": [],
+    "sonority": 47
+  },
+  "ħ": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+continuant",
+      "+delayed",
+      "+pharyngeal",
+      "+radical"
+    ],
+    "place": [
+      "pharyngeal"
+    ],
+    "manner": [
+      "fricative"
+    ],
+    "aliases": [],
+    "sonority": 45
+  },
+  "ʕ": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+continuant",
+      "+delayed",
+      "+pharyngeal",
+      "+radical",
+      "+voiced"
+    ],
+    "place": [
+      "pharyngeal"
+    ],
+    "manner": [
+      "fricative"
+    ],
+    "aliases": [],
+    "sonority": 47
+  },
+  "h": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+continuant",
+      "+delayed",
+      "+spread_glottis"
+    ],
+    "place": [
+      "glottal"
+    ],
+    "manner": [
+      "fricative"
+    ],
+    "aliases": [],
+    "sonority": 45
+  },
+  "ɦ": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+continuant",
+      "+delayed",
+      "+spread_glottis",
+      "+voiced"
+    ],
+    "place": [
+      "glottal"
+    ],
+    "manner": [
+      "fricative"
+    ],
+    "aliases": [],
+    "sonority": 47
+  },
+  "ɬ": {
+    "type": "consonant",
+    "features": [
+      "+anterior",
+      "+consonantal",
+      "+continuant",
+      "+coronal",
+      "+delayed",
+      "+lateral",
+      "+liquid"
+    ],
+    "place": [
+      "alveolar"
+    ],
+    "manner": [
+      "lateral",
+      "fricative"
+    ],
+    "aliases": [],
+    "sonority": 65
+  },
+  "ɮ": {
+    "type": "consonant",
+    "features": [
+      "+anterior",
+      "+consonantal",
+      "+continuant",
+      "+coronal",
+      "+delayed",
+      "+lateral",
+      "+liquid",
+      "+voiced"
+    ],
+    "place": [
+      "alveolar"
+    ],
+    "manner": [
+      "lateral",
+      "fricative"
+    ],
+    "aliases": [],
+    "sonority": 67
+  },
+  "ʋ": {
+    "type": "consonant",
+    "features": [
+      "+approximant",
+      "+continuant",
+      "+labial",
+      "+labiodental",
+      "+sonorant",
+      "+voiced"
+    ],
+    "place": [
+      "labiodental"
+    ],
+    "manner": [
+      "approximant"
+    ],
+    "aliases": [],
+    "sonority": 67
+  },
+  "ɹ": {
+    "type": "consonant",
+    "features": [
+      "+anterior",
+      "+approximant",
+      "+continuant",
+      "+coronal",
+      "+liquid",
+      "+rhotic",
+      "+sonorant",
+      "+voiced"
+    ],
+    "place": [
+      "alveolar"
+    ],
+    "manner": [
+      "approximant"
+    ],
+    "aliases": [],
+    "sonority": 67
+  },
+  "ɻ": {
+    "type": "consonant",
+    "features": [
+      "+approximant",
+      "+continuant",
+      "+coronal",
+      "+liquid",
+      "+rhotic",
+      "+sonorant",
+      "+voiced"
+    ],
+    "place": [
+      "retroflex"
+    ],
+    "manner": [
+      "approximant"
+    ],
+    "aliases": [],
+    "sonority": 67
+  },
+  "j": {
+    "type": "consonant",
+    "features": [
+      "+approximant",
+      "+continuant",
+      "+dorsal",
+      "+front",
+      "+glide",
+      "+high",
+      "+sonorant",
+      "+voiced"
+    ],
+    "place": [
+      "palatal"
+    ],
+    "manner": [
+      "approximant"
+    ],
+    "aliases": [],
+    "sonority": 77
+  },
+  "ɰ": {
+    "type": "consonant",
+    "features": [
+      "+approximant",
+      "+back",
+      "+continuant",
+      "+dorsal",
+      "+glide",
+      "+high",
+      "+sonorant",
+      "+voiced"
+    ],
+    "place": [
+      "velar"
+    ],
+    "manner": [
+      "approximant"
+    ],
+    "aliases": [],
+    "sonority": 77
+  },
+  "l": {
+    "type": "consonant",
+    "features": [
+      "+anterior",
+      "+approximant",
+      "+consonantal",
+      "+continuant",
+      "+coronal",
+      "+lateral",
+      "+liquid",
+      "+sonorant",
+      "+voiced"
+    ],
+    "place": [
+      "alveolar"
+    ],
+    "manner": [
+      "lateral",
+      "approximant"
+    ],
+    "aliases": [],
+    "sonority": 67
+  },
+  "ɭ": {
+    "type": "consonant",
+    "features": [
+      "+approximant",
+      "+consonantal",
+      "+continuant",
+      "+coronal",
+      "+lateral",
+      "+liquid",
+      "+sonorant",
+      "+voiced"
+    ],
+    "place": [
+      "retroflex"
+    ],
+    "manner": [
+      "lateral",
+      "approximant"
+    ],
+    "aliases": [],
+    "sonority": 67
+  },
+  "ʎ": {
+    "type": "consonant",
+    "features": [
+      "+approximant",
+      "+consonantal",
+      "+continuant",
+      "+dorsal",
+      "+front",
+      "+high",
+      "+lateral",
+      "+liquid",
+      "+sonorant",
+      "+voiced"
+    ],
+    "place": [
+      "palatal"
+    ],
+    "manner": [
+      "lateral",
+      "approximant"
+    ],
+    "aliases": [],
+    "sonority": 67
+  },
+  "ʟ": {
+    "type": "consonant",
+    "features": [
+      "+approximant",
+      "+back",
+      "+consonantal",
+      "+continuant",
+      "+dorsal",
+      "+high",
+      "+lateral",
+      "+liquid",
+      "+sonorant",
+      "+voiced"
+    ],
+    "place": [
+      "velar"
+    ],
+    "manner": [
+      "lateral",
+      "approximant"
+    ],
+    "aliases": [],
+    "sonority": 67
+  },
+  "ʘ": {
+    "type": "consonant",
+    "features": [
+      "+bilabial",
+      "+consonantal",
+      "+delayed",
+      "+labial"
+    ],
+    "place": [
+      "bilabial"
+    ],
+    "manner": [
+      "click"
+    ],
+    "aliases": [],
+    "sonority": 15
+  },
+  "ǀ": {
+    "type": "consonant",
+    "features": [
+      "+anterior",
+      "+consonantal",
+      "+coronal",
+      "+delayed",
+      "+distributed"
+    ],
+    "place": [
+      "dental"
+    ],
+    "manner": [
+      "click"
+    ],
+    "aliases": [],
+    "sonority": 15
+  },
+  "ǃ": {
+    "type": "consonant",
+    "features": [
+      "+anterior",
+      "+consonantal",
+      "+coronal",
+      "+delayed"
+    ],
+    "place": [
+      "alveolar"
+    ],
+    "manner": [
+      "click"
+    ],
+    "aliases": [],
+    "sonority": 15
+  },
+  "ǂ": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+delayed",
+      "+dorsal",
+      "+front",
+      "+high"
+    ],
+    "place": [
+      "palatal"
+    ],
+    "manner": [
+      "click"
+    ],
+    "aliases": [],
+    "sonority": 15
+  },
+  "ǁ": {
+    "type": "consonant",
+    "features": [
+      "+anterior",
+      "+consonantal",
+      "+coronal",
+      "+delayed",
+      "+lateral"
+    ],
+    "place": [
+      "alveolar"
+    ],
+    "manner": [
+      "click"
+    ],
+    "aliases": [],
+    "sonority": 15
+  },
+  "ɓ": {
+    "type": "consonant",
+    "features": [
+      "+bilabial",
+      "+consonantal",
+      "+constricted_glottis",
+      "+labial",
+      "+stop",
+      "+voiced"
+    ],
+    "place": [
+      "bilabial"
+    ],
+    "manner": [
+      "implosive"
+    ],
+    "aliases": [],
+    "sonority": 27
+  },
+  "ɗ": {
+    "type": "consonant",
+    "features": [
+      "+anterior",
+      "+consonantal",
+      "+constricted_glottis",
+      "+coronal",
+      "+stop",
+      "+voiced"
+    ],
+    "place": [
+      "alveolar"
+    ],
+    "manner": [
+      "implosive"
+    ],
+    "aliases": [],
+    "sonority": 27
+  },
+  "ᶑ": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+constricted_glottis",
+      "+coronal",
+      "+stop",
+      "+voiced"
+    ],
+    "place": [
+      "retroflex"
+    ],
+    "manner": [
+      "implosive"
+    ],
+    "aliases": [],
+    "sonority": 27
+  },
+  "ʄ": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+constricted_glottis",
+      "+dorsal",
+      "+front",
+      "+high",
+      "+stop",
+      "+voiced"
+    ],
+    "place": [
+      "palatal"
+    ],
+    "manner": [
+      "implosive"
+    ],
+    "aliases": [],
+    "sonority": 27
+  },
+  "ɠ": {
+    "type": "consonant",
+    "features": [
+      "+back",
+      "+consonantal",
+      "+constricted_glottis",
+      "+dorsal",
+      "+high",
+      "+stop",
+      "+voiced"
+    ],
+    "place": [
+      "velar"
+    ],
+    "manner": [
+      "implosive"
+    ],
+    "aliases": [],
+    "sonority": 27
+  },
+  "ʛ": {
+    "type": "consonant",
+    "features": [
+      "+back",
+      "+consonantal",
+      "+constricted_glottis",
+      "+dorsal",
+      "+low",
+      "+stop",
+      "+voiced"
+    ],
+    "place": [
+      "uvular"
+    ],
+    "manner": [
+      "implosive"
+    ],
+    "aliases": [],
+    "sonority": 27
+  },
+  "pʼ": {
+    "type": "consonant",
+    "features": [
+      "+bilabial",
+      "+consonantal",
+      "+constricted_glottis",
+      "+labial",
+      "+stop"
+    ],
+    "place": [
+      "bilabial"
+    ],
+    "manner": [
+      "ejective"
+    ],
+    "aliases": [],
+    "sonority": 25
+  },
+  "tʼ": {
+    "type": "consonant",
+    "features": [
+      "+anterior",
+      "+consonantal",
+      "+constricted_glottis",
+      "+coronal",
+      "+stop"
+    ],
+    "place": [
+      "alveolar"
+    ],
+    "manner": [
+      "ejective"
+    ],
+    "aliases": [],
+    "sonority": 25
+  },
+  "kʼ": {
+    "type": "consonant",
+    "features": [
+      "+back",
+      "+consonantal",
+      "+constricted_glottis",
+      "+dorsal",
+      "+high",
+      "+stop"
+    ],
+    "place": [
+      "velar"
+    ],
+    "manner": [
+      "ejective"
+    ],
+    "aliases": [],
+    "sonority": 25
+  },
+  "sʼ": {
+    "type": "consonant",
+    "features": [
+      "+anterior",
+      "+consonantal",
+      "+constricted_glottis",
+      "+continuant",
+      "+coronal",
+      "+delayed",
+      "+strident"
+    ],
+    "place": [
+      "alveolar"
+    ],
+    "manner": [
+      "ejective",
+      "fricative"
+    ],
+    "aliases": [],
+    "sonority": 45
+  },
+  "i": {
+    "type": "vowel",
+    "features": [
+      "+continuant",
+      "+front",
+      "+high",
+      "+sonorant",
+      "+syllabic",
+      "+tense",
+      "+voiced"
+    ],
+    "place": [
+      "front"
+    ],
+    "manner": [
+      "close"
+    ],
+    "aliases": [],
+    "sonority": 85
+  },
+  "y": {
+    "type": "vowel",
+    "features": [
+      "+continuant",
+      "+front",
+      "+high",
+      "+round",
+      "+sonorant",
+      "+syllabic",
+      "+tense",
+      "+voiced"
+    ],
+    "place": [
+      "front"
+    ],
+    "manner": [
+      "close"
+    ],
+    "aliases": [],
+    "sonority": 85
+  },
+  "ɨ": {
+    "type": "vowel",
+    "features": [
+      "+continuant",
+      "+high",
+      "+sonorant",
+      "+syllabic",
+      "+tense",
+      "+voiced"
+    ],
+    "place": [
+      "central"
+    ],
+    "manner": [
+      "close"
+    ],
+    "aliases": [],
+    "sonority": 85
+  },
+  "ʉ": {
+    "type": "vowel",
+    "features": [
+      "+continuant",
+      "+high",
+      "+round",
+      "+sonorant",
+      "+syllabic",
+      "+tense",
+      "+voiced"
+    ],
+    "place": [
+      "central"
+    ],
+    "manner": [
+      "close"
+    ],
+    "aliases": [],
+    "sonority": 85
+  },
+  "ɯ": {
+    "type": "vowel",
+    "features": [
+      "+back",
+      "+continuant",
+      "+high",
+      "+sonorant",
+      "+syllabic",
+      "+tense",
+      "+voiced"
+    ],
+    "place": [
+      "back"
+    ],
+    "manner": [
+      "close"
+    ],
+    "aliases": [],
+    "sonority": 85
+  },
+  "u": {
+    "type": "vowel",
+    "features": [
+      "+back",
+      "+continuant",
+      "+high",
+      "+round",
+      "+sonorant",
+      "+syllabic",
+      "+tense",
+      "+voiced"
+    ],
+    "place": [
+      "back"
+    ],
+    "manner": [
+      "close"
+    ],
+    "aliases": [],
+    "sonority": 85
+  },
+  "ɪ": {
+    "type": "vowel",
+    "features": [
+      "+continuant",
+      "+front",
+      "+high",
+      "+sonorant",
+      "+syllabic",
+      "+voiced"
+    ],
+    "place": [
+      "front"
+    ],
+    "manner": [
+      "near_close"
+    ],
+    "aliases": [],
+    "sonority": 85
+  },
+  "ʏ": {
+    "type": "vowel",
+    "features": [
+      "+continuant",
+      "+front",
+      "+high",
+      "+round",
+      "+sonorant",
+      "+syllabic",
+      "+voiced"
+    ],
+    "place": [
+      "front"
+    ],
+    "manner": [
+      "near_close"
+    ],
+    "aliases": [],
+    "sonority": 85
+  },
+  "ʊ": {
+    "type": "vowel",
+    "features": [
+      "+back",
+      "+continuant",
+      "+high",
+      "+round",
+      "+sonorant",
+      "+syllabic",
+      "+voiced"
+    ],
+    "place": [
+      "back"
+    ],
+    "manner": [
+      "near_close"
+    ],
+    "aliases": [],
+    "sonority": 85
+  },
+  "e": {
+    "type": "vowel",
+    "features": [
+      "+continuant",
+      "+front",
+      "+sonorant",
+      "+syllabic",
+      "+tense",
+      "+voiced"
+    ],
+    "place": [
+      "front"
+    ],
+    "manner": [
+      "close_mid"
+    ],
+    "aliases": [],
+    "sonority": 90
+  },
+  "ø": {
+    "type": "vowel",
+    "features": [
+      "+continuant",
+      "+front",
+      "+round",
+      "+sonorant",
+      "+syllabic",
+      "+tense",
+      "+voiced"
+    ],
+    "place": [
+      "front"
+    ],
+    "manner": [
+      "close_mid"
+    ],
+    "aliases": [],
+    "sonority": 90
+  },
+  "ɘ": {
+    "type": "vowel",
+    "features": [
+      "+continuant",
+      "+sonorant",
+      "+syllabic",
+      "+tense",
+      "+voiced"
+    ],
+    "place": [
+      "central"
+    ],
+    "manner": [
+      "close_mid"
+    ],
+    "aliases": [],
+    "sonority": 90
+  },
+  "ɵ": {
+    "type": "vowel",
+    "features": [
+      "+continuant",
+      "+round",
+      "+sonorant",
+      "+syllabic",
+      "+tense",
+      "+voiced"
+    ],
+    "place": [
+      "central"
+    ],
+    "manner": [
+      "close_mid"
+    ],
+    "aliases": [],
+    "sonority": 90
+  },
+  "ɤ": {
+    "type": "vowel",
+    "features": [
+      "+back",
+      "+continuant",
+      "+sonorant",
+      "+syllabic",
+      "+tense",
+      "+voiced"
+    ],
+    "place": [
+      "back"
+    ],
+    "manner": [
+      "close_mid"
+    ],
+    "aliases": [],
+    "sonority": 90
+  },
+  "o": {
+    "type": "vowel",
+    "features": [
+      "+back",
+      "+continuant",
+      "+round",
+      "+sonorant",
+      "+syllabic",
+      "+tense",
+      "+voiced"
+    ],
+    "place": [
+      "back"
+    ],
+    "manner": [
+      "close_mid"
+    ],
+    "aliases": [],
+    "sonority": 90
+  },
+  "ə": {
+    "type": "vowel",
+    "features": [
+      "+continuant",
+      "+sonorant",
+      "+syllabic",
+      "+voiced"
+    ],
+    "place": [
+      "central"
+    ],
+    "manner": [
+      "mid"
+    ],
+    "aliases": [],
+    "sonority": 90
+  },
+  "ɛ": {
+    "type": "vowel",
+    "features": [
+      "+continuant",
+      "+front",
+      "+sonorant",
+      "+syllabic",
+      "+voiced"
+    ],
+    "place": [
+      "front"
+    ],
+    "manner": [
+      "open_mid"
+    ],
+    "aliases": [],
+    "sonority": 90
+  },
+  "œ": {
+    "type": "vowel",
+    "features": [
+      "+continuant",
+      "+front",
+      "+round",
+      "+sonorant",
+      "+syllabic",
+      "+voiced"
+    ],
+    "place": [
+      "front"
+    ],
+    "manner": [
+      "open_mid"
+    ],
+    "aliases": [],
+    "sonority": 90
+  },
+  "ɜ": {
+    "type": "vowel",
+    "features": [
+      "+continuant",
+      "+sonorant",
+      "+syllabic",
+      "+voiced"
+    ],
+    "place": [
+      "central"
+    ],
+    "manner": [
+      "open_mid"
+    ],
+    "aliases": [],
+    "sonority": 90
+  },
+  "ɞ": {
+    "type": "vowel",
+    "features": [
+      "+continuant",
+      "+round",
+      "+sonorant",
+      "+syllabic",
+      "+voiced"
+    ],
+    "place": [
+      "central"
+    ],
+    "manner": [
+      "open_mid"
+    ],
+    "aliases": [],
+    "sonority": 90
+  },
+  "ʌ": {
+    "type": "vowel",
+    "features": [
+      "+back",
+      "+continuant",
+      "+sonorant",
+      "+syllabic",
+      "+voiced"
+    ],
+    "place": [
+      "back"
+    ],
+    "manner": [
+      "open_mid"
+    ],
+    "aliases": [],
+    "sonority": 90
+  },
+  "ɔ": {
+    "type": "vowel",
+    "features": [
+      "+back",
+      "+continuant",
+      "+round",
+      "+sonorant",
+      "+syllabic",
+      "+voiced"
+    ],
+    "place": [
+      "back"
+    ],
+    "manner": [
+      "open_mid"
+    ],
+    "aliases": [],
+    "sonority": 90
+  },
+  "æ": {
+    "type": "vowel",
+    "features": [
+      "+continuant",
+      "+front",
+      "+low",
+      "+sonorant",
+      "+syllabic",
+      "+voiced"
+    ],
+    "place": [
+      "front"
+    ],
+    "manner": [
+      "near_open"
+    ],
+    "aliases": [],
+    "sonority": 95
+  },
+  "ɐ": {
+    "type": "vowel",
+    "features": [
+      "+continuant",
+      "+low",
+      "+sonorant",
+      "+syllabic",
+      "+voiced"
+    ],
+    "place": [
+      "central"
+    ],
+    "manner": [
+      "near_open"
+    ],
+    "aliases": [],
+    "sonority": 95
+  },
+  "a": {
+    "type": "vowel",
+    "features": [
+      "+continuant",
+      "+front",
+      "+low",
+      "+sonorant",
+      "+syllabic",
+      "+tense",
+      "+voiced"
+    ],
+    "place": [
+      "front"
+    ],
+    "manner": [
+      "open"
+    ],
+    "aliases": [],
+    "sonority": 95
+  },
+  "ɶ": {
+    "type": "vowel",
+    "features": [
+      "+continuant",
+      "+front",
+      "+low",
+      "+round",
+      "+sonorant",
+      "+syllabic",
+      "+tense",
+      "+voiced"
+    ],
+    "place": [
+      "front"
+    ],
+    "manner": [
+      "open"
+    ],
+    "aliases": [],
+    "sonority": 95
+  },
+  "ɑ": {
+    "type": "vowel",
+    "features": [
+      "+back",
+      "+continuant",
+      "+low",
+      "+sonorant",
+      "+syllabic",
+      "+tense",
+      "+voiced"
+    ],
+    "place": [
+      "back"
+    ],
+    "manner": [
+      "open"
+    ],
+    "aliases": [],
+    "sonority": 95
+  },
+  "ɒ": {
+    "type": "vowel",
+    "features": [
+      "+back",
+      "+continuant",
+      "+low",
+      "+round",
+      "+sonorant",
+      "+syllabic",
+      "+tense",
+      "+voiced"
+    ],
+    "place": [
+      "back"
+    ],
+    "manner": [
+      "open"
+    ],
+    "aliases": [],
+    "sonority": 95
+  },
+  "t͡s": {
+    "type": "consonant",
+    "features": [
+      "+anterior",
+      "+consonantal",
+      "+coronal",
+      "+delayed",
+      "+strident"
+    ],
+    "place": [
+      "alveolar"
+    ],
+    "manner": [
+      "affricate"
+    ],
+    "aliases": [
+      "ʦ"
+    ],
+    "sonority": 35
+  },
+  "d͡z": {
+    "type": "consonant",
+    "features": [
+      "+anterior",
+      "+consonantal",
+      "+coronal",
+      "+delayed",
+      "+strident",
+      "+voiced"
+    ],
+    "place": [
+      "alveolar"
+    ],
+    "manner": [
+      "affricate"
+    ],
+    "aliases": [
+      "ʣ"
+    ],
+    "sonority": 37
+  },
+  "t͡ʃ": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+coronal",
+      "+delayed",
+      "+distributed",
+      "+strident"
+    ],
+    "place": [
+      "postalveolar"
+    ],
+    "manner": [
+      "affricate"
+    ],
+    "aliases": [
+      "ʧ"
+    ],
+    "sonority": 35
+  },
+  "d͡ʒ": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+coronal",
+      "+delayed",
+      "+distributed",
+      "+strident",
+      "+voiced"
+    ],
+    "place": [
+      "postalveolar"
+    ],
+    "manner": [
+      "affricate"
+    ],
+    "aliases": [
+      "ʤ"
+    ],
+    "sonority": 37
+  },
+  "p͡f": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+delayed",
+      "+labial",
+      "+labiodental",
+      "+strident"
+    ],
+    "place": [
+      "labiodental"
+    ],
+    "manner": [
+      "affricate"
+    ],
+    "aliases": [],
+    "sonority": 35
+  },
+  "b͡v": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+delayed",
+      "+labial",
+      "+labiodental",
+      "+strident",
+      "+voiced"
+    ],
+    "place": [
+      "labiodental"
+    ],
+    "manner": [
+      "affricate"
+    ],
+    "aliases": [],
+    "sonority": 37
+  },
+  "k͡x": {
+    "type": "consonant",
+    "features": [
+      "+back",
+      "+consonantal",
+      "+delayed",
+      "+dorsal",
+      "+high"
+    ],
+    "place": [
+      "velar"
+    ],
+    "manner": [
+      "affricate"
+    ],
+    "aliases": [],
+    "sonority": 35
+  },
+  "ɡ͡ɣ": {
+    "type": "consonant",
+    "features": [
+      "+back",
+      "+consonantal",
+      "+delayed",
+      "+dorsal",
+      "+high",
+      "+voiced"
+    ],
+    "place": [
+      "velar"
+    ],
+    "manner": [
+      "affricate"
+    ],
+    "aliases": [],
+    "sonority": 37
+  },
+  "q͡χ": {
+    "type": "consonant",
+    "features": [
+      "+back",
+      "+consonantal",
+      "+delayed",
+      "+dorsal",
+      "+low"
+    ],
+    "place": [
+      "uvular"
+    ],
+    "manner": [
+      "affricate"
+    ],
+    "aliases": [],
+    "sonority": 35
+  },
+  "ɽr": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+continuant",
+      "+coronal",
+      "+sonorant",
+      "+trill",
+      "+voiced"
+    ],
+    "place": [
+      "retroflex"
+    ],
+    "manner": [
+      "trill"
+    ],
+    "aliases": [],
+    "sonority": 67
+  },
+  "ʜ": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+continuant",
+      "+pharyngeal",
+      "+trill"
+    ],
+    "place": [
+      "epiglottal"
+    ],
+    "manner": [
+      "trill"
+    ],
+    "aliases": [],
+    "sonority": 65
+  },
+  "ʢ": {
+    "type": "consonant",
+    "features": [
+      "+consonantal",
+      "+continuant",
+      "+pharyngeal",
+      "+trill",
+      "+voiced"
+    ],
+    "place": [
+      "epiglottal"
+    ],
+    "manner": [
+      "trill"
+    ],
+    "aliases": [],
+    "sonority": 67
+  },
+  "˞": {
+    "type": "modifier",
+    "added_features": [
+      "+rhotic"
+    ],
+    "removed_features": [],
+    "sonority": 0
+  },
+  "ʴ": {
+    "type": "modifier",
+    "added_features": [
+      "+rhotic"
+    ],
+    "removed_features": [],
+    "sonority": 0
+  },
+  "ɝ": {
+    "type": "vowel",
+    "features": [
+      "+syllabic",
+      "+sonorant",
+      "+continuant",
+      "+voiced",
+      "+rhotic"
+    ],
+    "place": [
+      "central"
+    ],
+    "manner": [
+      "mid"
+    ],
+    "sonority": 90
+  },
+  "ɚ": {
+    "type": "vowel",
+    "features": [
+      "+syllabic",
+      "+sonorant",
+      "+continuant",
+      "+voiced",
+      "+rhotic"
+    ],
+    "place": [
+      "central"
+    ],
+    "manner": [
+      "mid"
+    ],
+    "sonority": 90
+  },
+  "ᶕ": {
+    "type": "vowel",
+    "features": [
+      "+syllabic",
+      "+sonorant",
+      "+continuant",
+      "+voiced",
+      "+rhotic"
+    ],
+    "place": [
+      "central"
+    ],
+    "manner": [
+      "mid"
+    ],
+    "sonority": 90
+  }
+}

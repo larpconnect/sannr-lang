@@ -1,0 +1,14 @@
+[package]
+name = "data"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+jsonschema = "0.46.2"
+serde.workspace = true
+serde_json.workspace = true
+strum = { version = "0.28.0", features = ["derive"] }
+thiserror.workspace = true
+
+[lints]
+workspace = true
