@@ -15,7 +15,15 @@ It combines a few ideas:
    in structured formats that are easily consumed.
 
 
-## Papers
+## Resources
+
+### Inspirations
+
+* [Riot](https://github.com/leostera/riot)
+* [Clean](https://clean-lang.org)
+* [OCaml](https://ocaml.org) / [StandardML](https://en.wikipedia.org/wiki/Standard_ML)
+
+### Papers
 
 Things to look into later. 
 
@@ -25,3 +33,7 @@ Things to look into later.
 * Pombrio et al. [Resugaring: Lifting Evaluation Sequences through Syntactic Sugar](https://cs.brown.edu/research/plt/dl/resugaring/v1/resugar.pdf). 2014.
 * Swamy et al. [Lightweight Monadic Programming in ML](https://www.cs.umd.edu/~mwh/papers/monadic.pdf). 2011.
 * Swamy et al. [Verifying higher-order programs with the dijkstra monad](https://dl.acm.org/doi/abs/10.1145/2499370.2491978). 2013.
+
+### Essays
+
+* [Algebraic Effects for the Rest of Us](https://overreacted.io/algebraic-effects-for-the-rest-of-us/)
