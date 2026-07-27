@@ -8,13 +8,20 @@ It combines a few ideas:
 
 1. **Linear Typing** by default. This means that values cannot be _discarded_. They _must_ be used **exactly** once. This mostly comes
    up with things tied into resources, such as database connections, or where an allocation has taken place. (GHC Haskell)
-2. **Design By Contract**. Functions are declared with the context on what you can expect built into them. This is then verified
-   at _compile time_ (assuming I can get that to work, anyways). The goal here is not just to prove correctness, it is also to
-   prevent agents from needing to read the entire function to know what it guarantees. (Eiffel, Ada)
-3. **Refinement Types**. Essentially extending Design by Contract to types. Again, emphasizing a goal of minimizing the amount of context
-   that has to be carried around. (F*, Ada)
-4. **One Right Way To Do Things**. The number of ways to express the same thing are strictly limited. Avoiding semantic and syntactic drift.
+2. **Refinement Types**. Emphasizing the concepts of (probably) Liquid Types (Liquid Haskell).
+3. **One Right Way To Do Things**. The number of ways to express the same thing are strictly limited. Avoiding semantic and syntactic drift.
    (Python)
-5. **Machine Thinking First**. Recognize that generative AIs are essentially fancy matrix multipliers. Errors, outputs, etc are predominately
+4. **Machine Thinking First**. Recognize that generative AIs are essentially fancy matrix multipliers. Errors, outputs, etc are predominately
    in structured formats that are easily consumed.
 
+
+## Papers
+
+Things to look into later. 
+
+* Kawamata et al. [Answer Refinement Modification: Refinement Type System for Algebraic Effects and Handlers](https://dl.acm.org/doi/10.1145/3633280). 2024.
+* Rondon et al. [Liquid Types](https://patrickrondon.com/research/papers/liquid-types-pldi08.pdf). 2008.
+* Mandelbaum et al. [An Effective Theory of Type Refinements](https://www.cs.cmu.edu/~rwh/papers/effref/icfp03.pdf). 2003.
+* Pombrio et al. [Resugaring: Lifting Evaluation Sequences through Syntactic Sugar](https://cs.brown.edu/research/plt/dl/resugaring/v1/resugar.pdf). 2014.
+* Swamy et al. [Lightweight Monadic Programming in ML](https://www.cs.umd.edu/~mwh/papers/monadic.pdf). 2011.
+* Swamy et al. [Verifying higher-order programs with the dijkstra monad](https://dl.acm.org/doi/abs/10.1145/2499370.2491978). 2013.
