@@ -8,11 +8,12 @@ It combines a few ideas:
 
 1. **Linear Typing** by default. This means that values cannot be _discarded_. They _must_ be used **exactly** once. This mostly comes
    up with things tied into resources, such as database connections, or where an allocation has taken place. (GHC Haskell)
-2. **Refinement Types**. Emphasizing the concepts of (probably) Liquid Types (Liquid Haskell).
+2. **Refinement Types**. Emphasizing the concepts of Liquid Types (Liquid Haskell). We're not formally doing liquid types—more like SMT-backed refinement types with a Liquid-like interface—but close enough for anything other than formal discussions 
 3. **One Right Way To Do Things**. The number of ways to express the same thing are strictly limited. Avoiding semantic and syntactic drift.
    (Python)
 4. **Machine Thinking First**. Recognize that generative AIs are essentially fancy matrix multipliers. Errors, outputs, etc are predominately
-   in structured formats that are easily consumed.
+   in structured formats that are easily consumed by an agent system.
+5. **Actor Model of Concurrency**. This is a distributed systems-focused language and it uses the actor model at a deep, fundamental level (Elixir, Erlang, Akka/Scala).
 
 
 ## Resources
